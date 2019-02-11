@@ -63,3 +63,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'faker'
+gem 'bootstrap', '~> 4.0.0'
+gem 'jquery-rails'
+gem 'sentry-raven'
+gem 'cancancan'
+gem 'rolify'
